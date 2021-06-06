@@ -1,0 +1,33 @@
+.App{
+text-align: center;
+}
+
+
+.question-container{
+  max-width: 500px;
+  padding:20px;
+  margin: 0 auto;
+  box-shadow: 10px 10px 20px #a04c4c;
+  margin-top: 40px;
+}
+
+.form-container > .submit{
+  width: 100%;
+  border: none;
+  background-color: navy;
+  color: white;
+  font-size: medium;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 5px;
+  padding:10px;
+  
+}
+
+.form-container .radio {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  display: block;
+  margin-top: 10px 0;
+  
+  
+}
